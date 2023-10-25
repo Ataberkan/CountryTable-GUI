@@ -1,0 +1,8 @@
+Name	Capital	Population	Flag
+Republic of Turkey	Ankara	85000	data/turkey.png
+Republic of Poland	Warsaw	38500	data/poland.png
+Czech Republic	Prague	10500	data/czech.png
+Kingdom of Spain	Madrid	46599	data/spain.png
+United States of America	Washington D.C.	331000	data/usa.png
+Republic of India	New Delhi	1380000	data/india.png
+People's Republic of China	Beijing	1439323	data/china.png
